@@ -20,7 +20,7 @@
   "keywords": ["terminal", "tty", "record", "recorder", "gif", "png", "apng"],
   "tags": ["terminal", "tty", "record", "recorder", "gif", "png", "apng"],
   "dependencies": {
-    "blessed": ">=0.1.80",
+    "blessed": "inferiorhumanorgans/blessed",
     "term.js": ">=0.0.7",
     "pty.js": ">=0.3.0"
   }
